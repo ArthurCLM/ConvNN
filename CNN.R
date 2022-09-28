@@ -1,4 +1,3 @@
-#Fazer Posteriormente ao projeto anterior
 # Loading Libraries
 library(tidyverse)
 library(keras)
